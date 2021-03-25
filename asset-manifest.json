@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.b092a23a.chunk.css",
+    "main.css": "./static/css/main.7e061ac3.chunk.css",
     "main.js": "./static/js/main.93f3522d.chunk.js",
     "main.js.map": "./static/js/main.93f3522d.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.33cecfcb.js",
@@ -10,7 +10,7 @@
     "static/js/2.56f48d5d.chunk.js.map": "./static/js/2.56f48d5d.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.92d02543.chunk.css.map": "./static/css/2.92d02543.chunk.css.map",
-    "static/css/main.b092a23a.chunk.css.map": "./static/css/main.b092a23a.chunk.css.map",
+    "static/css/main.7e061ac3.chunk.css.map": "./static/css/main.7e061ac3.chunk.css.map",
     "static/js/2.56f48d5d.chunk.js.LICENSE.txt": "./static/js/2.56f48d5d.chunk.js.LICENSE.txt",
     "static/media/Song.css": "./static/media/button.df7a9641.png",
     "static/media/crystal_cave.2a169171.mp3": "./static/media/crystal_cave.2a169171.mp3",
@@ -19,6 +19,7 @@
     "static/media/fire.a3c9caab.mp3": "./static/media/fire.a3c9caab.mp3",
     "static/media/fire_fon_img.5282ea56.jpg": "./static/media/fire_fon_img.5282ea56.jpg",
     "static/media/fire_img.b9c8e6da.png": "./static/media/fire_img.b9c8e6da.png",
+    "static/media/App.css": "./static/media/fon.9be2113a.png",
     "static/media/garden_of_eden.ea9628b2.mp3": "./static/media/garden_of_eden.ea9628b2.mp3",
     "static/media/garden_of_eden_fon_img.ecdad587.jpg": "./static/media/garden_of_eden_fon_img.ecdad587.jpg",
     "static/media/garden_of_eden_img.b89abe48.png": "./static/media/garden_of_eden_img.b89abe48.png",
@@ -39,7 +40,7 @@
     "static/js/runtime-main.33cecfcb.js",
     "static/css/2.92d02543.chunk.css",
     "static/js/2.56f48d5d.chunk.js",
-    "static/css/main.b092a23a.chunk.css",
+    "static/css/main.7e061ac3.chunk.css",
     "static/js/main.93f3522d.chunk.js"
   ]
 }
