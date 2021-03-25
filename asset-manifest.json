@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.f4884320.chunk.css",
-    "main.js": "./static/js/main.84b6fbf4.chunk.js",
-    "main.js.map": "./static/js/main.84b6fbf4.chunk.js.map",
+    "main.js": "./static/js/main.9b94dde3.chunk.js",
+    "main.js.map": "./static/js/main.9b94dde3.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.33cecfcb.js",
     "runtime-main.js.map": "./static/js/runtime-main.33cecfcb.js.map",
     "static/css/2.92d02543.chunk.css": "./static/css/2.92d02543.chunk.css",
@@ -22,6 +22,9 @@
     "static/media/garden_of_eden.ea9628b2.mp3": "./static/media/garden_of_eden.ea9628b2.mp3",
     "static/media/garden_of_eden_fon_img.ecdad587.jpg": "./static/media/garden_of_eden_fon_img.ecdad587.jpg",
     "static/media/garden_of_eden_img.b89abe48.png": "./static/media/garden_of_eden_img.b89abe48.png",
+    "static/media/rest_on_the_shore.f7c860d2.mp3": "./static/media/rest_on_the_shore.f7c860d2.mp3",
+    "static/media/rest_on_the_shore_fon_img.ae1e16a7.jpg": "./static/media/rest_on_the_shore_fon_img.ae1e16a7.jpg",
+    "static/media/rest_on_the_shore_img.cdd68bbf.png": "./static/media/rest_on_the_shore_img.cdd68bbf.png",
     "static/media/tropical_rain.bee8d08b.mp3": "./static/media/tropical_rain.bee8d08b.mp3",
     "static/media/tropical_rain_fon_img.6e9c5d57.jpg": "./static/media/tropical_rain_fon_img.6e9c5d57.jpg",
     "static/media/tropical_rain_img.24528f49.png": "./static/media/tropical_rain_img.24528f49.png"
@@ -31,6 +34,6 @@
     "static/css/2.92d02543.chunk.css",
     "static/js/2.56f48d5d.chunk.js",
     "static/css/main.f4884320.chunk.css",
-    "static/js/main.84b6fbf4.chunk.js"
+    "static/js/main.9b94dde3.chunk.js"
   ]
 }
